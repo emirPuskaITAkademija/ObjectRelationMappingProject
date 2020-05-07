@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_102" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="app.first.model.Person">
+    <void property="age">
+     <int>30</int>
+    </void>
+    <void property="name">
+     <string>Amar</string>
+    </void>
+    <void property="nationalIdentificationNumber">
+     <string>12323</string>
+    </void>
+    <void property="surname">
+     <string>Hodžić</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="app.first.model.Person">
+    <void property="age">
+     <int>13</int>
+    </void>
+    <void property="name">
+     <string>Ferida</string>
+    </void>
+    <void property="nationalIdentificationNumber">
+     <string>22323</string>
+    </void>
+    <void property="surname">
+     <string>Bobar</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="app.first.model.Person">
+    <void property="age">
+     <int>3</int>
+    </void>
+    <void property="name">
+     <string>Kanita</string>
+    </void>
+    <void property="nationalIdentificationNumber">
+     <string>14323</string>
+    </void>
+    <void property="surname">
+     <string>Muzaferija</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="app.first.model.Person">
+    <void property="age">
+     <int>3</int>
+    </void>
+    <void property="name">
+     <string>Rijad</string>
+    </void>
+    <void property="nationalIdentificationNumber">
+     <string>30323</string>
+    </void>
+    <void property="surname">
+     <string>Dautović</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="app.first.model.Person">
+    <void property="age">
+     <int>13</int>
+    </void>
+    <void property="name">
+     <string>Fadil</string>
+    </void>
+    <void property="nationalIdentificationNumber">
+     <string>34323</string>
+    </void>
+    <void property="surname">
+     <string>Toskić</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="app.first.model.Person">
+    <void property="age">
+     <int>30</int>
+    </void>
+    <void property="name">
+     <string>Said</string>
+    </void>
+    <void property="nationalIdentificationNumber">
+     <string>14323</string>
+    </void>
+    <void property="surname">
+     <string>Hodžić</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="app.first.model.Person">
+    <void property="age">
+     <int>30</int>
+    </void>
+    <void property="name">
+     <string>Amar</string>
+    </void>
+    <void property="nationalIdentificationNumber">
+     <string>14523</string>
+    </void>
+    <void property="surname">
+     <string>Topčić</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="app.first.model.Person">
+    <void property="age">
+     <int>33</int>
+    </void>
+    <void property="name">
+     <string>Mirzad</string>
+    </void>
+    <void property="nationalIdentificationNumber">
+     <string>12323</string>
+    </void>
+    <void property="surname">
+     <string>Hodžić</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="app.first.model.Person">
+    <void property="age">
+     <int>30</int>
+    </void>
+    <void property="name">
+     <string>Amar</string>
+    </void>
+    <void property="nationalIdentificationNumber">
+     <string>14423</string>
+    </void>
+    <void property="surname">
+     <string>Hodžić</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="app.first.model.Person">
+    <void property="age">
+     <int>30</int>
+    </void>
+    <void property="name">
+     <string>Said</string>
+    </void>
+    <void property="nationalIdentificationNumber">
+     <string>126623</string>
+    </void>
+    <void property="surname">
+     <string>Rašinlić</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="app.first.model.Person">
+    <void property="age">
+     <int>30</int>
+    </void>
+    <void property="name">
+     <string>Rijad</string>
+    </void>
+    <void property="nationalIdentificationNumber">
+     <string>1253</string>
+    </void>
+    <void property="surname">
+     <string>Rogo</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="app.first.model.Person">
+    <void property="age">
+     <int>30</int>
+    </void>
+    <void property="name">
+     <string>Kemal</string>
+    </void>
+    <void property="nationalIdentificationNumber">
+     <string>125334</string>
+    </void>
+    <void property="surname">
+     <string>Abdić</string>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
